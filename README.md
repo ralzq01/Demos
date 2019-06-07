@@ -6,6 +6,8 @@ A Cheatsheet for fast coding and testing.
 
 * Encryption and Decryption Using Crypto++
 
+* RDMA chat room
+
 ### Python
 
 * Caffe Inference Speed Test
