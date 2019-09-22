@@ -32,7 +32,6 @@ int main(int argc, char* argv[]) {
 
   // read file content
   std::string content = readFile(filename);
-  std::cout << content << std::endl;
   // read key file
   std::string key = readFile(keyfile);
   const unsigned char* aeskey = (unsigned char*)key.c_str();
