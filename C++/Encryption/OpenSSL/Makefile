@@ -1,7 +1,7 @@
 all: test encfile
 
-test: aes.cc
+test: aes.h test.cc
 	g++ -o demo test.cc -lcrypto
 
-encfile: encfile.cc
+encfile: aes.h encfile.cc
 	g++ -o encfile encfile.cc -lcrypto
