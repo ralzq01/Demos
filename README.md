@@ -11,3 +11,5 @@ A Cheatsheet for fast coding and testing.
 ### Python
 
 * Caffe Inference Speed Test
+
+* Python with C++ Backend

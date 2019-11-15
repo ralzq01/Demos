@@ -1,5 +1,10 @@
 ## Demo for Python with C++ Backend
 
+### Prerequisite
+
+* Python 3.7.*
+* Linux
+
 ### Run
 
 ```sh
