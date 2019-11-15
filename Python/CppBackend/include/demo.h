@@ -8,3 +8,9 @@
  */
 void ThreadInfo(char* msg);
 
+/* demo
+ * verify true parallel execution 
+ * without Python GIL
+ */
+int VerifyParallel(int* data);
+
